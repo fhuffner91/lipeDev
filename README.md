@@ -6,7 +6,6 @@
   Portfólio criado para mostrar meus projetos e trazer inscritos para minha newsletter.
 </h4>
 
-![Resultado final do projeto](https://lipedev.vercel.app/)
 
 <h4 align="center"><a href="https://lipedev.vercel.app/">Clique para visitar o projeto</a></h4>
 
@@ -29,7 +28,7 @@ Para o desenvolvimento deste site utilizei as seguintes tecnologias:
 
 ---
 
-##Autor<br>
+## 🤓 Autor<br>
 <table>
   <tr>
     <td align="center">
