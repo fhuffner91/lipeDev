@@ -32,7 +32,7 @@ Para o desenvolvimento deste site utilizei as seguintes tecnologias:
 <table>
   <tr>
     <td align="center">
-      <a href="https://github.com/fhuffner91e">
+      <a href="https://github.com/fhuffner91">
         <img src="https://github.com/fhuffner91.png" width="100px;" alt="Foto do Lipe Dev no GitHub"/><br>
         <sub>
           <b>Lipe Dev 2021</b>
