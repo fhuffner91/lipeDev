@@ -4,6 +4,7 @@
   --main-darkblue: #093D7C;
   --main-blue: #054b82;
   --main-gray: #151414;
+  --main-orange:#f3ae19;
 }
 
 /* Base reset */
@@ -63,6 +64,12 @@ html {
 @media (max-width: 28.75em) {
   html {
     font-size: 55%;
+  }
+}
+/* 320px / 16px = 28.75em */
+@media only screen and (min-width : 320px) {
+  html {
+    font-size: 48%;
   }
 }
 
@@ -267,7 +274,7 @@ nav.show div.icon-close {
   font-size: 3rem;
   font-weight: 200;
   font-style: italic;
-  color: var(--main-white);
+  color:var(--main-orange);
 }
 
 /* Projects section */
