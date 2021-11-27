@@ -63,13 +63,13 @@ html {
 /* 460px / 16px = 28.75em */
 @media (max-width: 28.75em) {
   html {
-    font-size: 55%;
+    font-size: 45%;
   }
 }
 /* 320px / 16px = 28.75em */
 @media only screen and (min-width : 320px) {
   html {
-    font-size: 48%;
+    font-size: 35%;
   }
 }
 
