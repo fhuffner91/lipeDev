@@ -416,6 +416,11 @@ nav.show div.icon-close {
 .contact-details:hover {
   transform: translateY(8px);
 }
+.fa.fa-instagram {
+  color: white;
+  background-clip: text;
+  -webkit-background-clip: text;
+}
 
 /* Footer */
 
